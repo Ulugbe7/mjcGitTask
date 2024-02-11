@@ -1,0 +1,24 @@
+From 26c7fdc85d75714f5c8f3510c9ec44fe96ae6e6c Mon Sep 17 00:00:00 2001
+From: ulugbek <ulugbekyusupov272@gmail.com>
+Date: Sun, 11 Feb 2024 22:43:53 +0500
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 488d4d9..517e927 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
++Changed 2 lines in firstFile.txt in git_1
++Changed 2 lines in firstFile.txt in git_1
+-- 
+2.34.1
+
